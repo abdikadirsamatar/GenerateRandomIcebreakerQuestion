@@ -10,7 +10,16 @@ function generateIcebreaker() {
     "kadi",
     "daniel",
     "remsey",
-    "rene",
+    "rene", 
+    "you got pranked",
+    "you got pranked",
+    "you got pranked",
+    "you got pranked",
+    "you got pranked",
+    "you got pranked",
+    "you got pranked",
+    "you got pranked",
+    "you got pranked",
   ];
 
   // Randomly select a question
